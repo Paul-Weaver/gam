@@ -2,7 +2,7 @@ import subprocess
 import csv
 
 # Define the path to the gam executable
-gam = ""
+gam = "testing"
 
 # Open the input CSV file
 with open("./users.csv", 'r') as f:
